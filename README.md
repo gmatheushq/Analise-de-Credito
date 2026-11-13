@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-Este repositório tem como finalidade reunir estudos, materiais, códigos e desenvolvimentos relacionados ao projeto de Iniciação Científica (IC) "Análise de Crédito, Tomada de Decisão e a Incerteza Inerente".
+Este repositório tem como finalidade reunir estudos, materiais, códigos e desenvolvimentos relacionados ao projeto de pesquisa: "Análise de Crédito, Tomada de Decisão e a Incerteza Inerente".
 
 O projeto busca estudar os processos de análise e concessão de crédito, buscando explorar técnicas de Machine Learning, em conjunto com métodos estatísticos, Teoria Intervalar e Teoria dos Conjuntos Fuzzy, com o intuito de incorporar as incertezas e imprecisões presentes nesse tipo de problema.
 
