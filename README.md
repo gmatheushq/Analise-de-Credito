@@ -14,7 +14,7 @@ O projeto busca estudar os processos de análise e concessão de crédito, busca
 - Investigar métodos da Teoria Intervalar que possam ser utilizados na representação das incertezas.
 - Estudar conceitos e métodos da Teoria dos Conjuntos Fuzzy aplicados à análise de crédito.
 - Desenvolver uma proposta de avaliação para a concessão de crédito.
-- Explorar ferramentas computacionais, como Python, para simulações e aplicações dos métodos estudados.
+- Explorar ferramentas computacionais para simulações e aplicações dos métodos estudados.
 
 
 ## Resultados esperados
